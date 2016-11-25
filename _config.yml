@@ -52,7 +52,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD/MM/YYYY
 time_format: HH:mm:ss
 
 # Pagination
@@ -69,22 +69,3 @@ theme: cactus-dark
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-
-nav:
-  Home: /
-  About: /about/
-  Writing: /archives/
-  Projects: http://github.com/probberechts
-  LINK_NAME: URL
-
-customize:
-  highlight: monokai-sublime
-  social_links:
-    github: your-github-url
-    twitter: your-twitter-url
-    html5: your-NAME-url
-
-rss:
-
-plugins:
-    disqus_shortname: SITENAME
