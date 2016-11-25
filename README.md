@@ -6,8 +6,8 @@
 - `npm install -g hexo-cli` # (Optionel)
 
 ```bash
-git clone https://github.com/ES-Community/hexo-blog --recursive
-cd hexo-blog
+git clone https://github.com/ES-Community/ES-Community.github.io.git --recursive
+cd ES-Community.github.io
 npm update
 
 node_modules/.bin/hexo server # local test
