@@ -6,7 +6,7 @@
 - `npm install -g hexo-cli` # (Optionel)
 
 ```bash
-git clone https://github.com/ES-Community/hexo-blog
+git clone https://github.com/ES-Community/hexo-blog --recursive
 cd hexo-blog
 npm update
 
