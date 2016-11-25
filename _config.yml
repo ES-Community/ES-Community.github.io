@@ -65,6 +65,11 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: cactus-dark
 
+# Search module : https://github.com/PaicHyperionDev/hexo-generator-search
+search:
+  path: search.xml
+  field: all
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
