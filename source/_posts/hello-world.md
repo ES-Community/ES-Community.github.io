@@ -46,8 +46,11 @@ Pour organiser un peu tout les assets, on peu utiliser les assets relative.
 Créez un dossier du même nom que le fichier de votre article (- extension)
 
 Exemple :
-- `_posts/hello-world.md` path de l'article
-- `_posts/hello-world/es-community.png` path des assets
+
+```bash
+_posts/hello-world.md # path de l'article
+_posts/hello-world/es-community.png # path des assets
+```
 
 Utilisation dans l'article :
 ```bash
