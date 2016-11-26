@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-26T09:52:31.005Z</updated>
+  <updated>2016-11-26T10:02:31.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/first-article/hello-world/"/>
     <id>http://yoursite.com/first-article/hello-world/</id>
     <published>2016-11-25T20:52:41.441Z</published>
-    <updated>2016-11-26T09:52:31.005Z</updated>
+    <updated>2016-11-26T10:02:31.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -33,10 +33,7 @@
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 <h3 id="Relative-Assets-post"><a href="#Relative-Assets-post" class="headerlink" title="Relative Assets post"></a>Relative Assets post</h3><p>Pour organiser un peu tout les assets, on peu utiliser les assets relative.<br>Créez un dossier du même nom que le fichier de votre article (- extension)</p>
 <p>Exemple :</p>
-<ul>
-<li><code>_posts/hello-world.md</code> path de l’article</li>
-<li><code>_posts/hello-world/es-community.png</code> path des assets</li>
-</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">_posts/hello-world.md <span class="comment"># path de l'article</span></div><div class="line">_posts/hello-world/es-community.png <span class="comment"># path des assets</span></div></pre></td></tr></table></figure>
 <p>Utilisation dans l’article :<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">&#123;% asset_path es-community.png %&#125; <span class="comment"># Récupération de l'URL</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure></p>
 /first-article/hello-world/es-community.png
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">&#123;% asset_img es-community.png <span class="string">"Logo EsCommunity"</span> %&#125; <span class="comment"># Balise img</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure>

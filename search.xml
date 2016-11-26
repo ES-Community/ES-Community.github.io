@@ -17,10 +17,7 @@
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 <h3 id="Relative-Assets-post"><a href="#Relative-Assets-post" class="headerlink" title="Relative Assets post"></a>Relative Assets post</h3><p>Pour organiser un peu tout les assets, on peu utiliser les assets relative.<br>Créez un dossier du même nom que le fichier de votre article (- extension)</p>
 <p>Exemple :</p>
-<ul>
-<li><code>_posts/hello-world.md</code> path de l’article</li>
-<li><code>_posts/hello-world/es-community.png</code> path des assets</li>
-</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">_posts/hello-world.md <span class="comment"># path de l'article</span></div><div class="line">_posts/hello-world/es-community.png <span class="comment"># path des assets</span></div></pre></td></tr></table></figure>
 <p>Utilisation dans l’article :<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">&#123;% asset_path es-community.png %&#125; <span class="comment"># Récupération de l'URL</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure></p>
 /first-article/hello-world/es-community.png
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">&#123;% asset_img es-community.png <span class="string">"Logo EsCommunity"</span> %&#125; <span class="comment"># Balise img</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure>
