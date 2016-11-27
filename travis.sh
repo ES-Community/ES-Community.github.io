@@ -15,4 +15,4 @@ cd public
 
 git add .
 git commit -m "Travis-CI - Site Updated - ${DATE}"
-git push
+git push origin master
