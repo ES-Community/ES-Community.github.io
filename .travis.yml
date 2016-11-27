@@ -2,12 +2,17 @@ language: node_js
 node_js:
   - "node"
 
+branches:
+  only:
+  - source
+
 install:
   - npm update
 
 before_script:
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "Travis CI"
+  - echo -e "deploy:\n  - repo: https://$CI_USER_TOKEN@github.com/ES-Community/ES-Community.github.io" > _config_travis.yml
 
 script:
-  - npm run deploy
+  - npm run travis-deploy
