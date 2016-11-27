@@ -5,7 +5,7 @@
     
     <entry>
       <title><![CDATA[Flash News]]></title>
-      <url>http://yoursite.com/Integration-Continue/flash-news/</url>
+      <url>https://es-community.github.io/Integration-Continue/flash-news/</url>
       <content type="html"><![CDATA[<p>Petit article pour montrer que l’intégration continue est en place : <a href="https://travis-ci.org/ES-Community/ES-Community.github.io" target="_blank" rel="external"><img src="https://travis-ci.org/ES-Community/ES-Community.github.io.svg?branch=source" alt="Build Status"></a></p>
 <p>En vrai ça me permet de tester que la phase de déploiement ce passe bien<br>Que ça commit et push bien sur master et que le token d’authentification fonctionne ^^</p>
 ]]></content>
@@ -13,7 +13,7 @@
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>http://yoursite.com/first-article/hello-world/</url>
+      <url>https://es-community.github.io/first-article/hello-world/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
@@ -42,7 +42,7 @@
     
     <entry>
       <title><![CDATA[À Propos]]></title>
-      <url>http://yoursite.com//about/index.html</url>
+      <url>https://es-community.github.io//about/index.html</url>
       <content type="html"><![CDATA[<h1 id="A-Propos"><a href="#A-Propos" class="headerlink" title="À Propos"></a>À Propos</h1><p>Ce site web est un blog public participatif. Le but sur ce blog est de partagé nos connaissances sur NodeJS - NPM - Le javascript moderne (très axé ES6-7).</p>
 <p>La licence pour le contenu du site est par défaut en<br><strong>Creative Commons - BY NC SA</strong><br><code>// TODO liens, images, etc...</code></p>
 <h2 id="Resume-de-la-licence"><a href="#Resume-de-la-licence" class="headerlink" title="Résumé de la licence"></a>Résumé de la licence</h2><p>Attribution + Pas d’Utilisation Commerciale + Partage dans les mêmes conditions (BY - NC - SA):<br>Le titulaire des droits autorise l’exploitation de l’œuvre originale à des fins non commerciales, ainsi que la création d’œuvres dérivées, à condition qu’elles soient distribuées sous une licence identique à celle qui régit l’œuvre originale.</p>
