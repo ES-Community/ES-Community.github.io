@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://es-community.github.io/"/>
-  <updated>2016-11-27T17:15:55.123Z</updated>
+  <updated>2016-11-27T18:11:41.106Z</updated>
   <id>https://es-community.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://es-community.github.io/Integration-Continue/flash-news/"/>
     <id>https://es-community.github.io/Integration-Continue/flash-news/</id>
     <published>2016-11-27T16:57:04.000Z</published>
-    <updated>2016-11-27T17:15:55.123Z</updated>
+    <updated>2016-11-27T18:11:41.106Z</updated>
     
     <content type="html"><![CDATA[<p>Petit article pour montrer que l’intégration continue est en place : <a href="https://travis-ci.org/ES-Community/ES-Community.github.io" target="_blank" rel="external"><img src="https://travis-ci.org/ES-Community/ES-Community.github.io.svg?branch=source" alt="Build Status"></a></p>
 <p>En vrai ça me permet de tester que la phase de déploiement ce passe bien<br>Que ça commit et push bien sur master et que le token d’authentification fonctionne ^^</p>
@@ -42,7 +42,7 @@
     <link href="https://es-community.github.io/first-article/hello-world/"/>
     <id>https://es-community.github.io/first-article/hello-world/</id>
     <published>2016-11-25T16:57:04.000Z</published>
-    <updated>2016-11-27T17:15:55.123Z</updated>
+    <updated>2016-11-27T18:11:41.106Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
