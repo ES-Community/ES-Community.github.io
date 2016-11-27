@@ -15,7 +15,7 @@ En vrai ça me permet de tester que la phase de déploiement ce passe bienQue ç
 <meta property="og:description" content="Petit article pour montrer que l’intégration continue est en place : 
 En vrai ça me permet de tester que la phase de déploiement ce passe bienQue ça commit et push bien sur master et que le token d’au">
 <meta property="og:image" content="https://travis-ci.org/ES-Community/ES-Community.github.io.svg?branch=source">
-<meta property="og:updated_time" content="2016-11-27T16:36:14.486Z">
+<meta property="og:updated_time" content="2016-11-27T17:15:55.123Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Flash News">
 <meta name="twitter:description" content="Petit article pour montrer que l’intégration continue est en place : 
@@ -133,8 +133,9 @@ En vrai ça me permet de tester que la phase de déploiement ce passe bienQue ç
 <p>En vrai ça me permet de tester que la phase de déploiement ce passe bien<br>Que ça commit et push bien sur master et que le token d’authentification fonctionne ^^</p>
 
   </div>
-  <a href="https://github.com/ES-Community/ES-Community.github.io/blame/source/source/_posts/flash-news.md" target="_blank">Blame</a> - 
-  <a href="https://github.com/ES-Community/ES-Community.github.io/commits/source/source/_posts/flash-news.md" target="_blank">History</a>
+  <a href="https://github.com/ES-Community/ES-Community.github.io/blame/source/source/<%= page.source %>" target="_blank">Blame</a> - 
+<a href="https://github.com/ES-Community/ES-Community.github.io/commits/source/source/<%= page.source %>" target="_blank">History</a>
+  
   
     <div id="page-author" style="display:flex; justify-content: center; margin-top: 2em;">
       
@@ -151,6 +152,12 @@ En vrai ça me permet de tester que la phase de déploiement ce passe bienQue ç
     </div> 
   
 </article>
+
+    <div class="blog-post-comments">
+        <div id="disqus_thread">
+            <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        </div>
+    </div>
 
 
 
@@ -193,6 +200,18 @@ En vrai ça me permet de tester que la phase de déploiement ce passe bienQue ç
     </script>
 
 <!-- Disqus Comments -->
+
+    <script type="text/javascript">
+        var disqus_shortname = 'Es-Community';
+
+        (function(){
+            var dsq = document.createElement('script');
+            dsq.type = 'text/javascript';
+            dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        }());
+    </script>
 
 
 </body>
