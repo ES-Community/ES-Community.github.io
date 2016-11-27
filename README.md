@@ -28,3 +28,8 @@ Sinon
 ### À Venir
 - Des instructions pour contribuer
 - Good practices de git (branche, tag, etc...)
+
+### Hexo
+Le site est généré par Hexo. en attendant que je fournisse de la doc, vous pouvez lire la doc de Hexo :3
+
+https://hexo.io/docs/
