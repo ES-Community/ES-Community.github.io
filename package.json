@@ -11,7 +11,7 @@
     "watch": "node_modules/.bin/hexo generate --watch",
     "clear": "node_modules/.bin/hexo clean",
     "deploy": "node_modules/.bin/hexo deploy --generate",
-    "travis-deploy": "node_modules/.bin/hexo --config _config.yml,_config_travis.yml deploy --generate "
+    "travis-deploy": "./travis.sh"
   },
   "dependencies": {
     "hexo": "^3.2.0",

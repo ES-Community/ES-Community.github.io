@@ -1,8 +1,18 @@
 #!/bin/bash
+DATE=`date +%Y-%m-%d:%H:%M:%S`
 
-# Git config (for commits)
+# config git for commits
 git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis CI"
 
-# token access for deploy push
-echo -e "deploy:\n  - repo: https://$CI_USER_TOKEN@github.com/ES-Community/ES-Community.github.io" > _config_travis.yml
+npm run clear
+
+git clone -b master https://${CI_USER_TOKEN}@github.com/ES-Community/ES-Community.github.io public
+
+npm run build
+
+cd public
+
+git add .
+git commit -m "Travis-CI - Site Updated - ${DATE}"
+git push
