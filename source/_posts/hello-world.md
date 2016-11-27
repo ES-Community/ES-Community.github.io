@@ -1,5 +1,5 @@
 ---
-date: 25/11/2016 12:40:00
+date: 2016-11-25 16:57:04
 title: Hello World
 author: Purexo
 categories:
