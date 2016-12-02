@@ -15,6 +15,10 @@ cd public
 
 git add .
 git commit -m "Travis-CI - Site Updated - ${DATE}"
-git push origin master 2>&1 | sed -r "s/${CI_USER_TOKEN}/\[masked\]/g"
 
-exit $?
+git_push_res=$(git push origin master 2>&1)
+git_return_code=$?
+
+echo "${git_push_res}" | sed -r "s/${CI_USER_TOKEN}/\[masked\]/g"
+
+exit ${git_return_code}
