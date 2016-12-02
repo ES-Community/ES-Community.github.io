@@ -15,4 +15,4 @@ cd public
 
 git add .
 git commit -m "Travis-CI - Site Updated - ${DATE}"
-git push origin master
+git push origin master | sed -r "s/${CI_USER_TOKEN}/\[masked\]/g"

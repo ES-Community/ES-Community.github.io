@@ -10,3 +10,5 @@ Petit article pour montrer que l'intégration continue est en place : [![Build S
 
 En vrai ça me permet de tester que la phase de déploiement ce passe bien
 Que ça commit et push bien sur master et que le token d'authentification fonctionne ^^
+
+Lel mon token d'authentication était affiché dans les logs de travis via git... c'est corrigé !
