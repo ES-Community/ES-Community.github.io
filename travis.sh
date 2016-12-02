@@ -7,7 +7,8 @@ git config --global user.name "Travis CI"
 
 npm run clear
 
-git clone -b master https://${CI_USER_TOKEN}@github.com/ES-Community/ES-Community.github.io public
+git_url="https://${CI_USER_TOKEN}@github.com/ES-Community/ES-Community.github.io"
+git clone -b master ${git_url} public
 
 npm run build
 
