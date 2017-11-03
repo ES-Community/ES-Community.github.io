@@ -5,16 +5,24 @@
     
     <entry>
       <title><![CDATA[Flash News]]></title>
-      <url>https://es-community.github.io/Integration-Continue/flash-news/</url>
+      <url>https://es-community.github.ioIntegration-Continue/flash-news/</url>
       <content type="html"><![CDATA[<p>Petit article pour montrer que l’intégration continue est en place : <a href="https://travis-ci.org/ES-Community/ES-Community.github.io" target="_blank" rel="external"><img src="https://travis-ci.org/ES-Community/ES-Community.github.io.svg?branch=source" alt="Build Status"></a></p>
 <p>En vrai ça me permet de tester que la phase de déploiement ce passe bien<br>Que ça commit et push bien sur master et que le token d’authentification fonctionne ^^</p>
 <p>Lel mon token d’authentication était affiché dans les logs de travis via git… c’est corrigé !</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Intégration Continue </category>
+            
+        </categories>
+        
+        
     </entry>
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>https://es-community.github.io/first-article/hello-world/</url>
+      <url>https://es-community.github.iofirst-article/hello-world/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
@@ -30,12 +38,20 @@
 <p>Utilisation dans l’article :<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">&#123;% asset_path es-community.png %&#125; <span class="comment"># Récupération de l'URL</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure></p>
 /first-article/hello-world/es-community.png
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">&#123;% asset_img es-community.png <span class="string">"Logo EsCommunity"</span> %&#125; <span class="comment"># Balise img</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure>
-<img src="/first-article/hello-world/es-community.png" alt="Logo EsCommunity" title="Logo EsCommunity">
+<img src="/first-article/hello-world/es-community.png" title="Logo EsCommunity">
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">&#123;% asset_link es-community.png <span class="string">"Logo EsCommunity"</span> %&#125; <span class="comment"># Balise a</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure>
 <a href="/first-article/hello-world/es-community.png" title="Logo EsCommunity">Logo EsCommunity</a>
 <p>Wombo - Combo :<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">[![Logo EsCommunity](es-community.png)](es-community.png) <span class="comment"># Balise img dans balise a</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure></p>
 <p><a href="es-community.png"><img src="es-community.png" alt="Logo EsCommunity"></a></p>
 ]]></content>
+      
+        <categories>
+            
+            <category> first-article </category>
+            
+        </categories>
+        
+        
     </entry>
     
   
