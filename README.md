@@ -5,12 +5,13 @@
 ### Prérequis :
 - NodeJS v7.x
 - npm 3.10.8
-- `npm install -g hexo-cli` # (Optionel)
+- `npm install -g hexo-cli` # (Optionnel)
+- Mieux, si votre version de npm le permet utilisez `npm hexo`
 
 ```bash
 git clone https://github.com/ES-Community/ES-Community.github.io.git --recursive
 cd ES-Community.github.io
-npm update
+npm install
 
 npm start # démare un serveur sur localhost:4000 our tester le rendu du site
 npm run build # generate le site dans le dossier public
