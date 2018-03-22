@@ -4,9 +4,65 @@
   
     
     <entry>
+      <title><![CDATA[WeekTalk #1 - EventLoop NodeJS & NixOS]]></title>
+      <url>https://es-community.github.io/WeekTalk/NodeJS/weetalk-1-edition/</url>
+      <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zv1oFDkP2tI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<h2 id="Presentation-du-concept"><a href="#Presentation-du-concept" class="headerlink" title="Présentation du concept"></a>Présentation du concept</h2><p><strong>WeeTalk</strong> est un Podcast vidéo ou sont abordé 1 à 2 sujets (une techno, un logiciel, …) avec 3-4 personnes : :</p>
+<ul>
+<li>1 personne par présentation</li>
+<li>les autres pour poser des questions, animer la discussion, corriger d’éventuelles erreurs</li>
+</ul>
+<p>Ces WeeTalk sont organisés par des membres actifs de la communauté <a href="https://github.com/ES-Community/Code-of-conduct" target="_blank" rel="noopener">ES-Community</a>.<br>N’importe quel membre peut proposer un sujet à présenter, ce proposer pour présenter un sujet, participer à un WeeTalk.</p>
+<h2 id="Detail-de-ce-1er-WeeTalk"><a href="#Detail-de-ce-1er-WeeTalk" class="headerlink" title="Détail de ce 1er WeeTalk"></a>Détail de ce 1er WeeTalk</h2><p>Ce WeeTalk c’est fait en live grâce à @Aleksander sur sa <a href="https://www.twitch.tv/skander_tv" target="_blank" rel="noopener">chaîne Twitch</a><br>Avec @Fraxken et @DeltaEvo qui ont présenté dans l’ordre</p>
+<ol>
+<li>L’EventLoop de NodeJS</li>
+<li>la distribution linux NixOS</li>
+</ol>
+<p>Vous trouverez sur ce <a href="https://github.com/ES-Community/weektalk" target="_blank" rel="noopener">repo github</a> les futurs sujets prévu, ainsi qu’un historique des WeeTalk ayants eu lieux.</p>
+<p>Vous pouvez retrouver dès maintenant la redifusion de ce premier WeeTalk sur :</p>
+<ul>
+<li><a href="https://www.twitch.tv/videos/237346371" target="_blank" rel="noopener">Twitch</a></li>
+<li>Ou <a href="https://www.youtube.com/watch?v=zv1oFDkP2tI" target="_blank" rel="noopener">Youtube</a></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Présentateur</th>
+<th>Sujet</th>
+<th>Durée</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fraxken (Thomas.G)</td>
+<td>Présentation de mes travaux sur l’event-loop Libuv (et Node)</td>
+<td>30min</td>
+</tr>
+<tr>
+<td>DeltaEvo</td>
+<td>Présentation de NixOS et de mon voyage au travers les distributions Linux</td>
+<td>~1h</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+      
+        <categories>
+            
+            <category> WeekTalk </category>
+            
+            <category> NodeJS </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Flash News]]></title>
-      <url>https://es-community.github.ioIntegration-Continue/flash-news/</url>
-      <content type="html"><![CDATA[<p>Petit article pour montrer que l’intégration continue est en place : <a href="https://travis-ci.org/ES-Community/ES-Community.github.io" target="_blank" rel="external"><img src="https://travis-ci.org/ES-Community/ES-Community.github.io.svg?branch=source" alt="Build Status"></a></p>
+      <url>https://es-community.github.io/Integration-Continue/flash-news/</url>
+      <content type="html"><![CDATA[<p>Petit article pour montrer que l’intégration continue est en place : <a href="https://travis-ci.org/ES-Community/ES-Community.github.io" target="_blank" rel="noopener"><img src="https://travis-ci.org/ES-Community/ES-Community.github.io.svg?branch=source" alt="Build Status"></a></p>
 <p>En vrai ça me permet de tester que la phase de déploiement ce passe bien<br>Que ça commit et push bien sur master et que le token d’authentification fonctionne ^^</p>
 <p>Lel mon token d’authentication était affiché dans les logs de travis via git… c’est corrigé !</p>
 ]]></content>
@@ -22,26 +78,26 @@
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>https://es-community.github.iofirst-article/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+      <url>https://es-community.github.io/first-article/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 <h3 id="Relative-Assets-post"><a href="#Relative-Assets-post" class="headerlink" title="Relative Assets post"></a>Relative Assets post</h3><p>Pour organiser un peu tout les assets, on peu utiliser les assets relative.<br>Créez un dossier du même nom que le fichier de votre article (- extension)</p>
 <p>Exemple :</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">_posts/hello-world.md <span class="comment"># path de l'article</span></div><div class="line">_posts/hello-world/es-community.png <span class="comment"># path des assets</span></div></pre></td></tr></table></figure>
-<p>Utilisation dans l’article :<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">&#123;% asset_path es-community.png %&#125; <span class="comment"># Récupération de l'URL</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure></p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">_posts/hello-world.md <span class="comment"># path de l'article</span></span><br><span class="line">_posts/hello-world/es-community.png <span class="comment"># path des assets</span></span><br></pre></td></tr></table></figure>
+<p>Utilisation dans l’article :<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line">&#123;% asset_path es-community.png %&#125; <span class="comment"># Récupération de l'URL</span></span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure></p>
 /first-article/hello-world/es-community.png
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">&#123;% asset_img es-community.png <span class="string">"Logo EsCommunity"</span> %&#125; <span class="comment"># Balise img</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line">&#123;% asset_img es-community.png <span class="string">"Logo EsCommunity"</span> %&#125; <span class="comment"># Balise img</span></span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure>
 <img src="/first-article/hello-world/es-community.png" title="Logo EsCommunity">
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">&#123;% asset_link es-community.png <span class="string">"Logo EsCommunity"</span> %&#125; <span class="comment"># Balise a</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line">&#123;% asset_link es-community.png <span class="string">"Logo EsCommunity"</span> %&#125; <span class="comment"># Balise a</span></span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure>
 <a href="/first-article/hello-world/es-community.png" title="Logo EsCommunity">Logo EsCommunity</a>
-<p>Wombo - Combo :<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&#123;% raw %&#125;</div><div class="line">[![Logo EsCommunity](es-community.png)](es-community.png) <span class="comment"># Balise img dans balise a</span></div><div class="line">&#123;% endraw %&#125;</div></pre></td></tr></table></figure></p>
+<p>Wombo - Combo :<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line">[![Logo EsCommunity](es-community.png)](es-community.png) <span class="comment"># Balise img dans balise a</span></span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure></p>
 <p><a href="es-community.png"><img src="es-community.png" alt="Logo EsCommunity"></a></p>
 ]]></content>
       
@@ -72,8 +128,8 @@
 </ul>
 <p>En cas de redistribution de notre travail, n’hésitez pas à nous le notifier, nous serions ravis de voir vos partages, remix, redistribution, etc.</p>
 <h2 id="Liens-utiles"><a href="#Liens-utiles" class="headerlink" title="Liens utiles"></a>Liens utiles</h2><ul>
-<li><a href="https://github.com/ES-Community/ES-Community.github.io" target="_blank" rel="external">https://github.com/ES-Community/ES-Community.github.io</a></li>
-<li><a href="https://github.com/ES-Community/ES-Community.github.io/issues" target="_blank" rel="external">https://github.com/ES-Community/ES-Community.github.io/issues</a> Pour nous contacter, s’organiser, suggestion</li>
+<li><a href="https://github.com/ES-Community/ES-Community.github.io" target="_blank" rel="noopener">https://github.com/ES-Community/ES-Community.github.io</a></li>
+<li><a href="https://github.com/ES-Community/ES-Community.github.io/issues" target="_blank" rel="noopener">https://github.com/ES-Community/ES-Community.github.io/issues</a> Pour nous contacter, s’organiser, suggestion</li>
 </ul>
 ]]></content>
     </entry>
