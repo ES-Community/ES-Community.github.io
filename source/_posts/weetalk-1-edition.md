@@ -11,10 +11,7 @@ categories:
 
 ## Présentation du concept
 
-Bonjour à tous,
-
-J'ai décidé de publier sur ce blog (mis en place depuis bien longtemps mais peu utilisé) les différents WeeTalk.
-C'est un Podcast vidéo pour aborder 1 ou 2 sujets (une techno, un logiciel, ...) avec plusieurs personnes (3-4) :
+**WeeTalk** est un Podcast vidéo ou sont abordé 1 à 2 sujets (une techno, un logiciel, ...) avec 3-4 personnes : :
 
 - 1 personne par présentation
 - les autres pour poser des questions, animer la discussion, corriger d'éventuelles erreurs
