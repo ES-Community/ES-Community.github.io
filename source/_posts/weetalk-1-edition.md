@@ -11,7 +11,7 @@ categories:
 
 ## Présentation du concept
 
-**WeekTalk** est un Podcast vidéo ou sont abordé 1 à 2 sujets (une techno, un logiciel, ...) avec 3-4 personnes : :
+**WeekTalk** est un Podcast vidéo ou sont abordé 1 à 2 sujets (une techno, un logiciel, ...) avec 3-4 personnes :
 
 - 1 personne par présentation
 - les autres pour poser des questions, animer la discussion, corriger d'éventuelles erreurs
