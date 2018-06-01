@@ -16,7 +16,7 @@ tags:
 
 Ce WeekTalk est animé par TnTakara, ou il nous explique ce qu'est vraiment REST, et les choses qui font que le REST de la manière dont il exploité maintenant n'est pas en accord avec les principes dans les RFCs. Pour nous expliquer ce qui ferrais un "bon" REST.
 
-Suite a ces explications, une discussions entre les invités de ~15 minutes sur leurs experiences du REST, et des alternatives existantes.
+Suite à ces explications, une discussion entre les invités de ~15 minutes sur leurs experiences du REST, et des alternatives existantes.
 
 ## Bibliographie
 - [Blog de Roy Fielding](https://roy.gbiv.com/untangled/)
@@ -40,4 +40,4 @@ Vous pouvez retrouver dès maintenant la redifusion de ce deuxième WeekTalk sur
 
 -----------------------------
 
-Vous trouverez sur ce [repo github](https://github.com/ES-Community/weektalk) les futurs sujets prévu, ainsi qu'un historique des WeekTalk ayants eu lieux.
+Vous trouverez sur ce [repo github](https://github.com/ES-Community/weektalk) les futurs sujets prévus, ainsi qu'un historique des WeekTalks ayants eu lieux.
