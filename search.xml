@@ -3,6 +3,31 @@
   
     
     <entry>
+      <title>WeekTalk #2 - REST est un échec</title>
+      <link href="/WeekTalk/weektalk-2-edition/"/>
+      <url>/WeekTalk/weektalk-2-edition/</url>
+      <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1gAtHMY9h-Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h2 id="Detail-de-ce-2eme-WeekTalk"><a href="#Detail-de-ce-2eme-WeekTalk" class="headerlink" title="Détail de ce 2ème WeekTalk"></a>Détail de ce 2ème WeekTalk</h2><p>Ce WeekTalk est animé par TnTakara, ou il nous explique ce qu’est vraiment REST, et les choses qui font que le REST de la manière dont il exploité maintenant n’est pas en accord avec les principes dans les RFCs. Pour nous expliquer ce qui ferrais un “bon” REST.</p><p>Suite à ces explications, une discussion entre les invités de ~15 minutes sur leurs experiences du REST, et des alternatives existantes.</p><h2 id="Bibliographie"><a href="#Bibliographie" class="headerlink" title="Bibliographie"></a>Bibliographie</h2><ul><li><a href="https://roy.gbiv.com/untangled/" target="_blank" rel="noopener">Blog de Roy Fielding</a></li><li><a href="https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm" target="_blank" rel="noopener">Sa dissertation</a></li><li><a href="https://blog.octo.com/designer-une-api-rest/" target="_blank" rel="noopener">L’article d’OCTO</a></li><li>Les RFCs c’est surtout  <ul><li><a href="https://tools.ietf.org/html/rfc7230" target="_blank" rel="noopener">7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing</a></li><li><a href="https://tools.ietf.org/html/rfc7231" target="_blank" rel="noopener">7231 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests</a></li><li><a href="https://tools.ietf.org/html/rfc7232" target="_blank" rel="noopener">7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests</a></li><li><a href="https://tools.ietf.org/html/rfc7233" target="_blank" rel="noopener">7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests</a></li><li><a href="https://tools.ietf.org/html/rfc7234" target="_blank" rel="noopener">7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching</a></li><li><a href="https://tools.ietf.org/html/rfc7235" target="_blank" rel="noopener">7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication</a></li></ul></li></ul><p>Vous pouvez retrouver dès maintenant la redifusion de ce deuxième WeekTalk sur :</p><ul><li><a href="https://www.youtube.com/watch?v=1gAtHMY9h-Q" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li></ul><table><thead><tr><th>Présentateur</th><th>Sujet</th><th>Durée</th></tr></thead><tbody><tr><td>TnTakara</td><td>REST est un échec</td><td>~1h</td></tr></tbody></table><hr><p>Vous trouverez sur ce <a href="https://github.com/ES-Community/weektalk" target="_blank" rel="noopener">repo github</a> les futurs sujets prévus, ainsi qu’un historique des WeekTalks ayants eu lieux.</p>]]></content>
+      
+      <categories>
+          
+          <category> WeekTalk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> REST </tag>
+            
+            <tag> API </tag>
+            
+            <tag> HTTP </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>WeekTalk #1 - EventLoop NodeJS &amp; NixOS</title>
       <link href="/WeekTalk/NodeJS/weetalk-1-edition/"/>
       <url>/WeekTalk/NodeJS/weetalk-1-edition/</url>
