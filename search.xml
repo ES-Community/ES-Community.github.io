@@ -3,6 +3,56 @@
   
     
     <entry>
+      <title>WeekTalk #4 - Framework Node AdonisJS</title>
+      <link href="/WeekTalk/weektalk-4-edition/"/>
+      <url>/WeekTalk/weektalk-4-edition/</url>
+      <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5XmNADiz8Sc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h2 id="Detail-de-ce-4eme-WeekTalk"><a href="#Detail-de-ce-4eme-WeekTalk" class="headerlink" title="Détail de ce 4ème WeekTalk"></a>Détail de ce 4ème WeekTalk</h2><p>Ce WeekTalk est animé par Romain Lanz, Il nous fait une démo d’AdonisJS en mode conférence. tout en expliquant la logique et la philosophie du framework et pourquoi les choix ont été fait ainsi.</p><h2 id="Liens-utiles"><a href="#Liens-utiles" class="headerlink" title="Liens utiles"></a>Liens utiles</h2><ul><li><a href="https://adonisjs.com/" target="_blank" rel="noopener">AdonisJS</a></li><li><a href="https://adonisjs.com/docs/4.1/installation" target="_blank" rel="noopener">Getting Started</a></li><li><a href="https://github.com/adonisjs" target="_blank" rel="noopener">Github Adonis</a></li></ul><p>Vous pouvez retrouver dès maintenant la redifusion de ce quatirème WeekTalk sur :</p><ul><li><a href="https://www.youtube.com/watch?v=5XmNADiz8Sc" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li></ul><table><thead><tr><th>Présentateur</th><th>Sujet</th><th>Durée</th></tr></thead><tbody><tr><td>Romain Lanz</td><td>Framework Node AdonisJS</td><td>~1h40</td></tr></tbody></table><hr><p>Vous trouverez sur ce <a href="https://github.com/ES-Community/weektalk" target="_blank" rel="noopener">repo github</a> les futurs sujets prévus, ainsi qu’un historique des WeekTalks ayants eu lieux.</p>]]></content>
+      
+      <categories>
+          
+          <category> WeekTalk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Node </tag>
+            
+            <tag> Adonis </tag>
+            
+            <tag> Framework </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>WeekTalk #3 - Coaching, test et QA</title>
+      <link href="/WeekTalk/weektalk-3-edition/"/>
+      <url>/WeekTalk/weektalk-3-edition/</url>
+      <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ywJJRo7SAI8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h2 id="Detail-de-ce-3eme-WeekTalk"><a href="#Detail-de-ce-3eme-WeekTalk" class="headerlink" title="Détail de ce 3ème WeekTalk"></a>Détail de ce 3ème WeekTalk</h2><p>Ce WeekTalk est divisé en 2 partie et animé par Fraxken</p><ol><li>Coaching mental pour développeur ~20-30min</li><li>Présentation d’une nouvelle approche des tests (et QA)</li></ol><p>Vous pouvez retrouver dès maintenant la redifusion de ce troisième WeekTalk sur :</p><ul><li><a href="https://www.youtube.com/watch?v=ywJJRo7SAI8" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li></ul><table><thead><tr><th>Présentateur</th><th>Sujet</th><th>Durée</th></tr></thead><tbody><tr><td>Fraxken</td><td>Coaching mental pour développeur</td><td>~20-30min</td></tr><tr><td>Fraxken</td><td>Présentation d’une nouvelle approche des tests (et QA)</td><td>~20-30min</td></tr></tbody></table><hr><p>Vous trouverez sur ce <a href="https://github.com/ES-Community/weektalk" target="_blank" rel="noopener">repo github</a> les futurs sujets prévus, ainsi qu’un historique des WeekTalks ayants eu lieux.</p>]]></content>
+      
+      <categories>
+          
+          <category> WeekTalk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Coaching </tag>
+            
+            <tag> Tests </tag>
+            
+            <tag> QA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>WeekTalk #2 - REST est un échec</title>
       <link href="/WeekTalk/weektalk-2-edition/"/>
       <url>/WeekTalk/weektalk-2-edition/</url>
@@ -53,21 +103,6 @@
       <categories>
           
           <category> Intégration Continue </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/first-article/hello-world/"/>
-      <url>/first-article/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h3 id="Relative-Assets-post"><a href="#Relative-Assets-post" class="headerlink" title="Relative Assets post"></a>Relative Assets post</h3><p>Pour organiser un peu tout les assets, on peu utiliser les assets relative.<br>Créez un dossier du même nom que le fichier de votre article (- extension)</p><p>Exemple :</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">_posts/hello-world.md <span class="comment"># path de l'article</span></span><br><span class="line">_posts/hello-world/es-community.png <span class="comment"># path des assets</span></span><br></pre></td></tr></table></figure><p>Utilisation dans l’article :<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line">&#123;% asset_path es-community.png %&#125; <span class="comment"># Récupération de l'URL</span></span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure></p>/first-article/hello-world/es-community.png<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line">&#123;% asset_img es-community.png <span class="string">"Logo EsCommunity"</span> %&#125; <span class="comment"># Balise img</span></span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure><img src="/first-article/hello-world/es-community.png" title="Logo EsCommunity"><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line">&#123;% asset_link es-community.png <span class="string">"Logo EsCommunity"</span> %&#125; <span class="comment"># Balise a</span></span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure><a href="/first-article/hello-world/es-community.png" title="Logo EsCommunity">Logo EsCommunity</a><p>Wombo - Combo :<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line">[![Logo EsCommunity](es-community.png)](es-community.png) <span class="comment"># Balise img dans balise a</span></span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure></p><p><a href="es-community.png"><img src="es-community.png" alt="Logo EsCommunity"></a></p>]]></content>
-      
-      <categories>
-          
-          <category> first-article </category>
           
       </categories>
       
