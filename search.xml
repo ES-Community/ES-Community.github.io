@@ -3,33 +3,6 @@
   
     
     <entry>
-      <title>WeekTalk #4 - Framework Node AdonisJS</title>
-      <link href="/WeekTalk/weektalk-4-edition/"/>
-      <url>/WeekTalk/weektalk-4-edition/</url>
-      
-        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5XmNADiz8Sc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h2 id="Detail-de-ce-4eme-WeekTalk"><a href="#Detail-de-ce-4eme-WeekTalk" class="headerlink" title="Détail de ce 4ème WeekTalk"></a>Détail de ce 4ème WeekTalk</h2><p>Ce WeekTalk est animé par Romain Lanz, Il nous fait une démo d’AdonisJS en mode conférence. tout en expliquant la logique et la philosophie du framework et pourquoi les choix ont été fait ainsi.</p><h2 id="Liens-utiles"><a href="#Liens-utiles" class="headerlink" title="Liens utiles"></a>Liens utiles</h2><ul><li><a href="https://adonisjs.com/" target="_blank" rel="noopener">AdonisJS</a></li><li><a href="https://adonisjs.com/docs/4.1/installation" target="_blank" rel="noopener">Getting Started</a></li><li><a href="https://github.com/adonisjs" target="_blank" rel="noopener">Github Adonis</a></li></ul><p>Vous pouvez retrouver dès maintenant la redifusion de ce quatirème WeekTalk sur :</p><ul><li><a href="https://www.youtube.com/watch?v=5XmNADiz8Sc" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li></ul><table><thead><tr><th>Présentateur</th><th>Sujet</th><th>Durée</th></tr></thead><tbody><tr><td>Romain Lanz</td><td>Framework Node AdonisJS</td><td>~1h40</td></tr></tbody></table><hr><p>Vous trouverez sur ce <a href="https://github.com/ES-Community/weektalk" target="_blank" rel="noopener">repo github</a> les futurs sujets prévus, ainsi qu’un historique des WeekTalks ayants eu lieux.</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> WeekTalk </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Node </tag>
-            
-            <tag> Adonis </tag>
-            
-            <tag> Framework </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
       <title>WeekTalk #5 - ECMAScript proposals</title>
       <link href="/WeekTalk/weektalk-5-edition/"/>
       <url>/WeekTalk/weektalk-5-edition/</url>
@@ -53,6 +26,33 @@
             <tag> ES2016 </tag>
             
             <tag> TC39 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>WeekTalk #4 - Framework Node AdonisJS</title>
+      <link href="/WeekTalk/weektalk-4-edition/"/>
+      <url>/WeekTalk/weektalk-4-edition/</url>
+      
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5XmNADiz8Sc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h2 id="Detail-de-ce-4eme-WeekTalk"><a href="#Detail-de-ce-4eme-WeekTalk" class="headerlink" title="Détail de ce 4ème WeekTalk"></a>Détail de ce 4ème WeekTalk</h2><p>Ce WeekTalk est animé par Romain Lanz, Il nous fait une démo d’AdonisJS en mode conférence. tout en expliquant la logique et la philosophie du framework et pourquoi les choix ont été fait ainsi.</p><h2 id="Liens-utiles"><a href="#Liens-utiles" class="headerlink" title="Liens utiles"></a>Liens utiles</h2><ul><li><a href="https://adonisjs.com/" target="_blank" rel="noopener">AdonisJS</a></li><li><a href="https://adonisjs.com/docs/4.1/installation" target="_blank" rel="noopener">Getting Started</a></li><li><a href="https://github.com/adonisjs" target="_blank" rel="noopener">Github Adonis</a></li></ul><p>Vous pouvez retrouver dès maintenant la redifusion de ce quatirème WeekTalk sur :</p><ul><li><a href="https://www.youtube.com/watch?v=5XmNADiz8Sc" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li></ul><table><thead><tr><th>Présentateur</th><th>Sujet</th><th>Durée</th></tr></thead><tbody><tr><td>Romain Lanz</td><td>Framework Node AdonisJS</td><td>~1h40</td></tr></tbody></table><hr><p>Vous trouverez sur ce <a href="https://github.com/ES-Community/weektalk" target="_blank" rel="noopener">repo github</a> les futurs sujets prévus, ainsi qu’un historique des WeekTalks ayants eu lieux.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> WeekTalk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Node </tag>
+            
+            <tag> Adonis </tag>
+            
+            <tag> Framework </tag>
             
         </tags>
       
