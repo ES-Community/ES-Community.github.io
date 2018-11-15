@@ -1,5 +1,5 @@
 ---
-date: 2018-08-16 11:30:00
+date: 2018-09-20 22:12:00
 title: 'WeekTalk #5 - ECMAScript proposals'
 author: Purexo
 categories:
