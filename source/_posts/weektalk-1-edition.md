@@ -11,25 +11,25 @@ categories:
 
 ## Présentation du concept
 
-**WeekTalk** est un Podcast vidéo ou sont abordé 1 à 2 sujets (une techno, un logiciel, ...) avec 3-4 personnes :
+**WeekTalk** est un Podcast vidéo ou sont abordés 1 à 2 sujets (une techno, un logiciel, ...) avec 3-4 personnes :
 
 - 1 personne par présentation
 - les autres pour poser des questions, animer la discussion, corriger d'éventuelles erreurs
 
 Ces WeekTalk sont organisés par des membres actifs de la communauté [ES-Community](https://github.com/ES-Community/Code-of-conduct).
-N'importe quel membre peut proposer un sujet à présenter, ce proposer pour présenter un sujet, participer à un WeekTalk.
+N'importe quel membre peut proposer un sujet à présenter, se proposer pour présenter un sujet, participer à un WeekTalk.
 
 ## Détail de ce 1er WeekTalk
 
-Ce WeekTalk c'est fait en live grâce à @Aleksander sur sa [chaîne Twitch](https://www.twitch.tv/skander_tv)
+Ce WeekTalk s'est fait en live grâce à @Aleksander sur sa [chaîne Twitch](https://www.twitch.tv/skander_tv)
 Avec @Fraxken et @DeltaEvo qui ont présenté dans l'ordre
 
 1. L'EventLoop de NodeJS
-2. la distribution linux NixOS
+2. La distribution Linux NixOS
 
-Vous trouverez sur ce [repo github](https://github.com/ES-Community/weektalk) les futurs sujets prévu, ainsi qu'un historique des WeekTalk ayants eu lieux.
+Vous trouverez sur ce [repo github](https://github.com/ES-Community/weektalk) les futurs sujets prévus, ainsi qu'un historique des WeekTalk ayant eu lieu.
 
-Vous pouvez retrouver dès maintenant la redifusion de ce premier WeekTalk sur :
+Vous pouvez retrouver dès maintenant la rediffusion de ce premier WeekTalk sur :
 
 - [Twitch](https://www.twitch.tv/videos/237346371)
 - Ou [Youtube](https://www.youtube.com/watch?v=zv1oFDkP2tI)
