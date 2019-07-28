@@ -15,7 +15,7 @@ tags:
 
 ## Détail de ce 5ème WeekTalk
 
-Ce WeekTalk est animé par Michaël Zasso, il nous fait une review assez complète des Proposal en cours d'acceptation
+Ce WeekTalk est animé par Michaël Zasso. Il nous fait une review assez complète des Proposal en cours d'acceptation
 Minimum stage 2
 
 Une bonne durée du talk est sur les class field (public, private, static) pourquoi certains choix de syntaxe ont été fait (pas casser de vieux code qui tourne bien souvent)
@@ -26,7 +26,7 @@ Une bonne durée du talk est sur les class field (public, private, static) pourq
 - [proposal-private-methods](https://github.com/tc39/proposal-private-methods)
 - [proposal-static-class-features](https://github.com/tc39/proposal-static-class-features/)
 
-Vous pouvez retrouver dès maintenant la redifusion de ce 5ème WeekTalk sur :
+Vous pouvez retrouver dès maintenant la rediffusion de ce 5ème WeekTalk sur :
 
 - [Youtube - Communauté JavaScript FR](https://www.youtube.com/watch?v=_onjCxViPu8)
 
@@ -36,4 +36,4 @@ Vous pouvez retrouver dès maintenant la redifusion de ce 5ème WeekTalk sur :
 
 -----------------------------
 
-Vous trouverez sur ce [repo github](https://github.com/ES-Community/weektalk) les futurs sujets prévus, ainsi qu'un historique des WeekTalks ayants eu lieux.
+Vous trouverez sur ce [repo github](https://github.com/ES-Community/weektalk) les futurs sujets prévus, ainsi qu'un historique des WeekTalks ayant eu lieu.

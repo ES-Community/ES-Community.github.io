@@ -14,14 +14,14 @@ tags:
 
 ## Détail de ce 4ème WeekTalk
 
-Ce WeekTalk est animé par Romain Lanz, Il nous fait une démo d'AdonisJS en mode conférence. tout en expliquant la logique et la philosophie du framework et pourquoi les choix ont été fait ainsi.
+Ce WeekTalk est animé par Romain Lanz. Il nous fait une démo d'AdonisJS en mode conférence. Tout en expliquant la logique et la philosophie du framework et pourquoi les choix ont été faits ainsi.
 
 ## Liens utiles
 - [AdonisJS](https://adonisjs.com/)
 - [Getting Started](https://adonisjs.com/docs/4.1/installation)
 - [Github Adonis](https://github.com/adonisjs)
 
-Vous pouvez retrouver dès maintenant la redifusion de ce quatirème WeekTalk sur :
+Vous pouvez retrouver dès maintenant la rediffusion de ce quatrième WeekTalk sur :
 
 - [Youtube - Communauté JavaScript FR](https://www.youtube.com/watch?v=5XmNADiz8Sc)
 
@@ -31,4 +31,4 @@ Vous pouvez retrouver dès maintenant la redifusion de ce quatirème WeekTalk su
 
 -----------------------------
 
-Vous trouverez sur ce [repo github](https://github.com/ES-Community/weektalk) les futurs sujets prévus, ainsi qu'un historique des WeekTalks ayants eu lieux.
+Vous trouverez sur ce [repo github](https://github.com/ES-Community/weektalk) les futurs sujets prévus, ainsi qu'un historique des WeekTalks ayant eu lieu.
