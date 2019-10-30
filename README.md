@@ -16,7 +16,7 @@ npm install
 npm start # démarre un serveur sur localhost:4000 pour tester le rendu du site
 npm run build # génère le site dans le dossier public
 npm run watch # génère le site dans le dossier public en mettant à jour lors de changement dans les fichiers
-npm run deploy # vous devez avoir les permissions d'écritures sur le dépot
+npm run deploy # vous devez avoir les permissions d'écritures sur le dépôt
 # avec l'intégration continue travis-ci, il ne devrait plus avoir besoin de la dernière commande
 ```
 
