@@ -24,7 +24,7 @@ Ce WeekTalk est animé par Targos. Il va nous montrer comment il fait pour faire
 - [branch-diff](https://www.npmjs.com/package/branch-diff)
 - [changelog-maker](https://www.npmjs.com/package/changelog-maker)
   
-Vous pouvez retrouver dès maintenant la rediffusion de ce 8ème WeekTalk sur :
+Vous pouvez retrouver dès maintenant la rediffusion de ce 9ème WeekTalk sur :
 
 - [Youtube - Communauté JavaScript FR](https://www.youtube.com/watch?v=nvJCkn3E5kc)
 
