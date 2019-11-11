@@ -6,22 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="HandheldFriendly" content="True">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="description" content="Détail de ce 3ème WeekTalkCe WeekTalk est divisé en deux parties et animé par Fraxken.  Coaching mental pour développeur ~20-30min Présentation d’une nouvelle approche des tests (et QA)  Vous pouvez">
-<meta name="keywords" content="Coaching,Tests,QA">
+    <meta name="description" content="Détail de ce 7ème WeekTalkCe WeekTalk est animé par Romain Lanz. Il va nous faire une découverte improvisée du framework Nuxt.js. Liens utiles site officiel guide github npm one minute video  Vous p">
+<meta name="keywords" content="NodeJS,WeekTalk,Nuxt">
 <meta property="og:type" content="article">
-<meta property="og:title" content="WeekTalk #3 - Coaching, test et QA">
-<meta property="og:url" content="https://escommunity.dev/WeekTalk/weektalk-3-edition/index.html">
+<meta property="og:title" content="WeekTalk #8 - Découverte de Nuxt.js">
+<meta property="og:url" content="https://escommunity.dev/WeekTalk/weektalk-8-edition/index.html">
 <meta property="og:site_name" content="Blog - ES Community">
-<meta property="og:description" content="Détail de ce 3ème WeekTalkCe WeekTalk est divisé en deux parties et animé par Fraxken.  Coaching mental pour développeur ~20-30min Présentation d’une nouvelle approche des tests (et QA)  Vous pouvez">
+<meta property="og:description" content="Détail de ce 7ème WeekTalkCe WeekTalk est animé par Romain Lanz. Il va nous faire une découverte improvisée du framework Nuxt.js. Liens utiles site officiel guide github npm one minute video  Vous p">
 <meta property="og:locale" content="fr">
 <meta property="og:updated_time" content="2019-11-11T11:14:15.207Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="WeekTalk #3 - Coaching, test et QA">
-<meta name="twitter:description" content="Détail de ce 3ème WeekTalkCe WeekTalk est divisé en deux parties et animé par Fraxken.  Coaching mental pour développeur ~20-30min Présentation d’une nouvelle approche des tests (et QA)  Vous pouvez">
+<meta name="twitter:title" content="WeekTalk #8 - Découverte de Nuxt.js">
+<meta name="twitter:description" content="Détail de ce 7ème WeekTalkCe WeekTalk est animé par Romain Lanz. Il va nous faire une découverte improvisée du framework Nuxt.js. Liens utiles site officiel guide github npm one minute video  Vous p">
     
     
     <!-- title -->
-    <title>WeekTalk #3 - Coaching, test et QA</title>
+    <title>WeekTalk #8 - Découverte de Nuxt.js</title>
     <!-- styles -->
     <link rel="stylesheet" href="../../lib/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../lib/meslo-LG/styles.css">
@@ -64,10 +64,10 @@
       <span id="i-share" class="info" style="display:none;">Share post</span>
       <ul>
         
-        <li><a class="icon" href="../weektalk-4-edition/"><i class="fa fa-chevron-left" aria-hidden="true" onmouseover='$("#i-prev").toggle();' onmouseout='$("#i-prev").toggle();'></i></a></li>
+        <li><a class="icon" href="../weektalk-9-edition/"><i class="fa fa-chevron-left" aria-hidden="true" onmouseover='$("#i-prev").toggle();' onmouseout='$("#i-prev").toggle();'></i></a></li>
         
         
-        <li><a class="icon" href="../weektalk-2-edition/"><i class="fa fa-chevron-right" aria-hidden="true" onmouseover='$("#i-next").toggle();' onmouseout='$("#i-next").toggle();'></i></a></li>
+        <li><a class="icon" href="../weektalk-7-edition/"><i class="fa fa-chevron-right" aria-hidden="true" onmouseover='$("#i-next").toggle();' onmouseout='$("#i-next").toggle();'></i></a></li>
         
         <li><a class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fa fa-chevron-up" aria-hidden="true" onmouseover='$("#i-top").toggle();' onmouseout='$("#i-top").toggle();'></i></a></li>
         <li><a class="icon" href="#"><i class="fa fa-share-alt" aria-hidden="true" onmouseover='$("#i-share").toggle();' onmouseout='$("#i-share").toggle();' onclick='$("#share").toggle();return false;'></i></a></li>
@@ -76,20 +76,20 @@
     <br/>
     <div id="share" style="display: none">
       <ul>
-        <li><a class="icon" href="http://www.facebook.com/sharer.php?u=https://escommunity.dev/WeekTalk/weektalk-3-edition/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-        <li><a class="icon" href="https://twitter.com/share?url=https://escommunity.dev/WeekTalk/weektalk-3-edition/&text=WeekTalk #3 - Coaching, test et QA"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-        <li><a class="icon" href="http://www.linkedin.com/shareArticle?url=https://escommunity.dev/WeekTalk/weektalk-3-edition/&title=WeekTalk #3 - Coaching, test et QA"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-        <li><a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https://escommunity.dev/WeekTalk/weektalk-3-edition/&is_video=false&description=WeekTalk #3 - Coaching, test et QA"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-        <li><a class="icon" href="mailto:?subject=WeekTalk #3 - Coaching, test et QA&body=Check out this article: https://escommunity.dev/WeekTalk/weektalk-3-edition/"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
-        <li><a class="icon" href="https://getpocket.com/save?url=https://escommunity.dev/WeekTalk/weektalk-3-edition/&title=WeekTalk #3 - Coaching, test et QA"><i class="fa fa-get-pocket" aria-hidden="true"></i></a></li>
-        <li><a class="icon" href="http://reddit.com/submit?url=https://escommunity.dev/WeekTalk/weektalk-3-edition/&title=WeekTalk #3 - Coaching, test et QA"><i class="fa fa-reddit" aria-hidden="true"></i></a></li>
-        <li><a class="icon" href="http://www.stumbleupon.com/submit?url=https://escommunity.dev/WeekTalk/weektalk-3-edition/&title=WeekTalk #3 - Coaching, test et QA"><i class="fa fa-stumbleupon" aria-hidden="true"></i></a></li>
-        <li><a class="icon" href="http://digg.com/submit?url=https://escommunity.dev/WeekTalk/weektalk-3-edition/&title=WeekTalk #3 - Coaching, test et QA"><i class="fa fa-digg" aria-hidden="true"></i></a></li>
-        <li><a class="icon" href="http://www.tumblr.com/share/link?url=https://escommunity.dev/WeekTalk/weektalk-3-edition/&name=WeekTalk #3 - Coaching, test et QA&description="><i class="fa fa-tumblr" aria-hidden="true"></i></a></li>
+        <li><a class="icon" href="http://www.facebook.com/sharer.php?u=https://escommunity.dev/WeekTalk/weektalk-8-edition/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><a class="icon" href="https://twitter.com/share?url=https://escommunity.dev/WeekTalk/weektalk-8-edition/&text=WeekTalk #8 - Découverte de Nuxt.js"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a class="icon" href="http://www.linkedin.com/shareArticle?url=https://escommunity.dev/WeekTalk/weektalk-8-edition/&title=WeekTalk #8 - Découverte de Nuxt.js"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+        <li><a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url=https://escommunity.dev/WeekTalk/weektalk-8-edition/&is_video=false&description=WeekTalk #8 - Découverte de Nuxt.js"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+        <li><a class="icon" href="mailto:?subject=WeekTalk #8 - Découverte de Nuxt.js&body=Check out this article: https://escommunity.dev/WeekTalk/weektalk-8-edition/"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+        <li><a class="icon" href="https://getpocket.com/save?url=https://escommunity.dev/WeekTalk/weektalk-8-edition/&title=WeekTalk #8 - Découverte de Nuxt.js"><i class="fa fa-get-pocket" aria-hidden="true"></i></a></li>
+        <li><a class="icon" href="http://reddit.com/submit?url=https://escommunity.dev/WeekTalk/weektalk-8-edition/&title=WeekTalk #8 - Découverte de Nuxt.js"><i class="fa fa-reddit" aria-hidden="true"></i></a></li>
+        <li><a class="icon" href="http://www.stumbleupon.com/submit?url=https://escommunity.dev/WeekTalk/weektalk-8-edition/&title=WeekTalk #8 - Découverte de Nuxt.js"><i class="fa fa-stumbleupon" aria-hidden="true"></i></a></li>
+        <li><a class="icon" href="http://digg.com/submit?url=https://escommunity.dev/WeekTalk/weektalk-8-edition/&title=WeekTalk #8 - Découverte de Nuxt.js"><i class="fa fa-digg" aria-hidden="true"></i></a></li>
+        <li><a class="icon" href="http://www.tumblr.com/share/link?url=https://escommunity.dev/WeekTalk/weektalk-8-edition/&name=WeekTalk #8 - Découverte de Nuxt.js&description="><i class="fa fa-tumblr" aria-hidden="true"></i></a></li>
       </ul>
     </div>
     <div id="toc">
-      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Detail-de-ce-3eme-WeekTalk"><span class="toc-number">1.</span> <span class="toc-text">Détail de ce 3ème WeekTalk</span></a></li></ol>
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Detail-de-ce-7eme-WeekTalk"><span class="toc-number">1.</span> <span class="toc-text">Détail de ce 7ème WeekTalk</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Liens-utiles"><span class="toc-number">2.</span> <span class="toc-text">Liens utiles</span></a></li></ol>
     </div>
   </span>
 </div>
@@ -102,29 +102,29 @@
   <header>
     
     <h1 class="posttitle" itemprop="name headline">
-        WeekTalk #3 - Coaching, test et QA
+        WeekTalk #8 - Découverte de Nuxt.js
     </h1>
 
 
 
     <div class="meta">
       <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person" style="display:none">
-        <span itemprop="name">Purexo</span>
+        <span itemprop="name">Sebastien-Ahkrin</span>
         <span itemprop="url">#page-author</span>
       </span>
       <span class="author">
-        <a href="#page-author">Purexo</a>
+        <a href="#page-author">Sebastien-Ahkrin</a>
       </span>
       
     <div class="postdate">
-        <time datetime="2018-07-05T11:30:00.000Z" itemprop="datePublished">05/07/2018</time>
+        <time datetime="2019-04-12T17:52:07.000Z" itemprop="datePublished">12/04/2019</time>
     </div>
 
 
       
     <div class="article-tag">
         <i class="fa fa-tag"></i>
-        <a class="tag-link" href="../../tags/Coaching/">Coaching</a>, <a class="tag-link" href="../../tags/QA/">QA</a>, <a class="tag-link" href="../../tags/Tests/">Tests</a>
+        <a class="tag-link" href="../../tags/NodeJS/">NodeJS</a>, <a class="tag-link" href="../../tags/Nuxt/">Nuxt</a>, <a class="tag-link" href="../../tags/WeekTalk/">WeekTalk</a>
     </div>
 
 
@@ -133,16 +133,19 @@
   
 
   <div class="content" itemprop="articleBody">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ywJJRo7SAI8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wte-XtcaTCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<h2 id="Detail-de-ce-3eme-WeekTalk"><a href="#Detail-de-ce-3eme-WeekTalk" class="headerlink" title="Détail de ce 3ème WeekTalk"></a>Détail de ce 3ème WeekTalk</h2><p>Ce WeekTalk est divisé en deux parties et animé par Fraxken.</p>
-<ol>
-<li>Coaching mental pour développeur ~20-30min</li>
-<li>Présentation d’une nouvelle approche des tests (et QA)</li>
-</ol>
-<p>Vous pouvez retrouver dès maintenant la rediffusion de ce troisième WeekTalk sur :</p>
+<h2 id="Detail-de-ce-7eme-WeekTalk"><a href="#Detail-de-ce-7eme-WeekTalk" class="headerlink" title="Détail de ce 7ème WeekTalk"></a>Détail de ce 7ème WeekTalk</h2><p>Ce WeekTalk est animé par Romain Lanz. Il va nous faire une découverte improvisée du framework Nuxt.js.</p>
+<h2 id="Liens-utiles"><a href="#Liens-utiles" class="headerlink" title="Liens utiles"></a>Liens utiles</h2><ul>
+<li><a href="https://fr.nuxtjs.org/" target="_blank" rel="noopener">site officiel</a></li>
+<li><a href="https://fr.nuxtjs.org/guide" target="_blank" rel="noopener">guide</a></li>
+<li><a href="https://github.com/nuxt/nuxt.js" target="_blank" rel="noopener">github</a></li>
+<li><a href="https://www.npmjs.com/package/nuxt" target="_blank" rel="noopener">npm</a></li>
+<li><a href="https://www.youtube.com/watch?v=kmf-p-pTi40" target="_blank" rel="noopener">one minute video</a></li>
+</ul>
+<p>Vous pouvez retrouver dès maintenant la rediffusion de ce 8ème WeekTalk sur :</p>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=ywJJRo7SAI8" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li>
+<li><a href="https://www.youtube.com/watch?v=wte-XtcaTCo" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li>
 </ul>
 <table>
 <thead>
@@ -153,14 +156,9 @@
 </tr>
 </thead>
 <tbody><tr>
-<td>Fraxken</td>
-<td>Coaching mental pour développeur</td>
-<td>~20-30min</td>
-</tr>
-<tr>
-<td>Fraxken</td>
-<td>Présentation d’une nouvelle approche des tests (et QA)</td>
-<td>~20-30min</td>
+<td>Romain Lanz</td>
+<td>Découverte de Nuxt.js</td>
+<td>~1h05</td>
 </tr>
 </tbody></table>
 <hr>
@@ -174,7 +172,7 @@
     <div id="page-author" style="display:flex; justify-content: center; margin-top: 2em;">
       
 <div class="github-card"
-  data-user="Purexo"
+  data-user="Sebastien-Ahkrin"
   data-repo=""
   data-width="400"
   data-theme="default"

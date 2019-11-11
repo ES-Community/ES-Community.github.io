@@ -4,6 +4,116 @@
   
     
     <entry>
+      <title>WeekTalk #9 - Création de la release 12.9 de Node.js</title>
+      <link href="/WeekTalk/weektalk-9-edition/"/>
+      <url>/WeekTalk/weektalk-9-edition/</url>
+      
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nvJCkn3E5kc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h2 id="Detail-de-ce-9eme-WeekTalk"><a href="#Detail-de-ce-9eme-WeekTalk" class="headerlink" title="Détail de ce 9ème WeekTalk"></a>Détail de ce 9ème WeekTalk</h2><p>Ce WeekTalk est animé par Targos. Il va nous montrer comment il fait pour faire une release (12.9) sur Node.js.</p><h2 id="Liens-utiles"><a href="#Liens-utiles" class="headerlink" title="Liens utiles"></a>Liens utiles</h2><ul><li><a href="https://nodejs.org/en/" target="_blank" rel="noopener">site officiel</a></li><li><a href="https://nodejs.org/en/docs/" target="_blank" rel="noopener">doc</a></li><li><a href="https://github.com/nodejs/node" target="_blank" rel="noopener">github</a></li></ul><h2 id="Packages-utilises"><a href="#Packages-utilises" class="headerlink" title="Packages utilisés"></a>Packages utilisés</h2><ul><li><a href="https://www.npmjs.com/package/branch-diff" target="_blank" rel="noopener">branch-diff</a></li><li><a href="https://www.npmjs.com/package/changelog-maker" target="_blank" rel="noopener">changelog-maker</a></li></ul><p>Vous pouvez retrouver dès maintenant la rediffusion de ce 9ème WeekTalk sur :</p><ul><li><a href="https://www.youtube.com/watch?v=nvJCkn3E5kc" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li></ul><table><thead><tr><th>Présentateur</th><th>Sujet</th><th>Durée</th></tr></thead><tbody><tr><td>Targos</td><td>Création de la release 12.9 de Node.js</td><td>~1h36</td></tr></tbody></table><hr><p>Vous trouverez sur ce <a href="https://github.com/ES-Community/weektalk" target="_blank" rel="noopener">repo github</a> les futurs sujets prévus, ainsi qu’un historique des WeekTalks ayant eu lieu.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> WeekTalk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> NodeJS </tag>
+            
+            <tag> WeekTalk </tag>
+            
+            <tag> Release 12.9 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>WeekTalk #8 - Découverte de Nuxt.js</title>
+      <link href="/WeekTalk/weektalk-8-edition/"/>
+      <url>/WeekTalk/weektalk-8-edition/</url>
+      
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wte-XtcaTCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h2 id="Detail-de-ce-7eme-WeekTalk"><a href="#Detail-de-ce-7eme-WeekTalk" class="headerlink" title="Détail de ce 7ème WeekTalk"></a>Détail de ce 7ème WeekTalk</h2><p>Ce WeekTalk est animé par Romain Lanz. Il va nous faire une découverte improvisée du framework Nuxt.js.</p><h2 id="Liens-utiles"><a href="#Liens-utiles" class="headerlink" title="Liens utiles"></a>Liens utiles</h2><ul><li><a href="https://fr.nuxtjs.org/" target="_blank" rel="noopener">site officiel</a></li><li><a href="https://fr.nuxtjs.org/guide" target="_blank" rel="noopener">guide</a></li><li><a href="https://github.com/nuxt/nuxt.js" target="_blank" rel="noopener">github</a></li><li><a href="https://www.npmjs.com/package/nuxt" target="_blank" rel="noopener">npm</a></li><li><a href="https://www.youtube.com/watch?v=kmf-p-pTi40" target="_blank" rel="noopener">one minute video</a></li></ul><p>Vous pouvez retrouver dès maintenant la rediffusion de ce 8ème WeekTalk sur :</p><ul><li><a href="https://www.youtube.com/watch?v=wte-XtcaTCo" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li></ul><table><thead><tr><th>Présentateur</th><th>Sujet</th><th>Durée</th></tr></thead><tbody><tr><td>Romain Lanz</td><td>Découverte de Nuxt.js</td><td>~1h05</td></tr></tbody></table><hr><p>Vous trouverez sur ce <a href="https://github.com/ES-Community/weektalk" target="_blank" rel="noopener">repo github</a> les futurs sujets prévus, ainsi qu’un historique des WeekTalks ayant eu lieu.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> WeekTalk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> NodeJS </tag>
+            
+            <tag> WeekTalk </tag>
+            
+            <tag> Nuxt </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>WeekTalk #7 - N-API Node js</title>
+      <link href="/WeekTalk/weektalk-7-edition/"/>
+      <url>/WeekTalk/weektalk-7-edition/</url>
+      
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rvmnnlYf3lk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h2 id="Detail-de-ce-7eme-WeekTalk"><a href="#Detail-de-ce-7eme-WeekTalk" class="headerlink" title="Détail de ce 7ème WeekTalk"></a>Détail de ce 7ème WeekTalk</h2><p>Ce WeekTalk est animé par Fraxken. Sur ce talk Fraxken va nous présenter la N-API qui permet de créer des Addons natifs Node.JS.</p><h2 id="Liens-utiles"><a href="#Liens-utiles" class="headerlink" title="Liens utiles"></a>Liens utiles</h2><ul><li><a href="https://docs.google.com/presentation/d/1wE71qu_hJMKA4RoZ8Oa_8E4Qqa5mFQcFE2zI0Es5OFE/edit" target="_blank" rel="noopener">slide de la présentation</a></li><li><a href="https://nodejs.org/api/n-api.html" target="_blank" rel="noopener">documentation</a></li><li><a href="https://github.com/nodejs/node-addon-api" target="_blank" rel="noopener">github</a></li><li><a href="https://www.npmjs.com/package/node-addon-api" target="_blank" rel="noopener">npm</a></li></ul><p>Vous pouvez retrouver dès maintenant la rediffusion de ce 7ème WeekTalk sur :</p><ul><li><a href="https://www.youtube.com/watch?v=rvmnnlYf3lk" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li></ul><table><thead><tr><th>Présentateur</th><th>Sujet</th><th>Durée</th></tr></thead><tbody><tr><td>Fraxken</td><td>N-API Node js</td><td>~1h20</td></tr></tbody></table><hr><p>Vous trouverez sur ce <a href="https://github.com/ES-Community/weektalk" target="_blank" rel="noopener">repo github</a> les futurs sujets prévus, ainsi qu’un historique des WeekTalks ayant eu lieu.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> WeekTalk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> NodeJS </tag>
+            
+            <tag> WeekTalk </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>WeekTalk #6 - Découverte de Perl5</title>
+      <link href="/WeekTalk/weektalk-6-edition/"/>
+      <url>/WeekTalk/weektalk-6-edition/</url>
+      
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kaw0D2ZJHvo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h2 id="Detail-de-ce-6eme-WeekTalk"><a href="#Detail-de-ce-6eme-WeekTalk" class="headerlink" title="Détail de ce 6ème WeekTalk"></a>Détail de ce 6ème WeekTalk</h2><p>Ce WeekTalk est animé par Fraxken. Il va nous faire une présentation sur Perl5.</p><h2 id="Liens-utiles"><a href="#Liens-utiles" class="headerlink" title="Liens utiles"></a>Liens utiles</h2><ul><li><a href="https://www.perl.org/" target="_blank" rel="noopener">site officiel</a></li><li><a href="https://www.perl.org/get.html" target="_blank" rel="noopener">téléchargement</a></li><li><a href="https://www.perl.org/docs.html" target="_blank" rel="noopener">documentations</a></li></ul><p>Vous pouvez retrouver dès maintenant la rediffusion de ce 6ème WeekTalk sur :</p><ul><li><a href="https://www.youtube.com/watch?v=kaw0D2ZJHvo" target="_blank" rel="noopener">Youtube - Communauté JavaScript FR</a></li></ul><table><thead><tr><th>Présentateur</th><th>Sujet</th><th>Durée</th></tr></thead><tbody><tr><td>Fraxken</td><td>Découverte de Perl5</td><td>~1h20</td></tr></tbody></table><hr><p>Vous trouverez sur ce <a href="https://github.com/ES-Community/weektalk" target="_blank" rel="noopener">repo github</a> les futurs sujets prévus, ainsi qu’un historique des WeekTalks ayant eu lieu.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> WeekTalk </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Perl5 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>WeekTalk #5 - ECMAScript proposals</title>
       <link href="/WeekTalk/weektalk-5-edition/"/>
       <url>/WeekTalk/weektalk-5-edition/</url>
