@@ -30,9 +30,12 @@ jobs:
         with:
           node-version: 12.x
       
+      - name: submodule
+        run: git submodule update --init --recursive
+      
       - name: Install Dependencies
         run: npm install
 
       # Runs a single command using the runners shell
       - name: Build and push
-        run: bash ./travis.sh
+        run: bash ./ci.sh

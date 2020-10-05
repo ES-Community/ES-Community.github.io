@@ -2,8 +2,8 @@
 DATE=`date +%Y-%m-%d:%H:%M:%S`
 
 # config git for commits
-git config --global user.email "travis@travis-ci.org"
-git config --global user.name "Travis CI"
+git config --global user.email "github@github.com"
+git config --global user.name "Github CI"
 
 npm run clear
 
@@ -15,7 +15,7 @@ npm run build
 cd public
 
 git add .
-git commit -m "Travis-CI - Site Updated - ${DATE}"
+git commit -m "Github-CI - Site Updated - ${DATE}"
 
 git_push_res=$(git push origin master 2>&1)
 git_return_code=$?
