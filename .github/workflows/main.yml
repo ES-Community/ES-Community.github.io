@@ -35,6 +35,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Build and push
-        env:
-          CI_USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: bash ./ci.sh
