@@ -10,9 +10,6 @@ on:
   pull_request:
     branches: [ source ]
 
-env:
-  CI_USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -38,4 +35,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Build and push
+        env:
+          CI_USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: bash ./ci.sh
