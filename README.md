@@ -1,7 +1,5 @@
 # Blog ES-Community
 
-[![Build Status](https://travis-ci.org/ES-Community/ES-Community.github.io.svg?branch=source)](https://travis-ci.org/ES-Community/ES-Community.github.io)
-
 ### Prérequis :
 - NodeJS v7.x
 - npm 3.10.8

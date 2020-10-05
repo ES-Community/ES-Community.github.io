@@ -27,14 +27,21 @@ jobs:
         with:
           node-version: 12.x
       
-      - name: submodule
+      - name: Fetch theme
         run: git submodule update --init --recursive
       
       - name: Install Dependencies
         run: npm install
 
-      # Runs a single command using the runners shell
-      - name: Build and push
+      - name: Build
+        run: |
+          npm run clear
+          npm run build
+      
+      - name: Deploy
+        uses: s0/git-publish-subdir-action@v2.4.0
         env:
+          REPO: self
+          BRANCH: master
+          FOLDER: public
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: bash ./ci.sh
